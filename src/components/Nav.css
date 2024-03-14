@@ -1,0 +1,17 @@
+.Nav-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    margin: 20px;
+    font-size: 30px;
+    color: white;
+}
+.main-container{
+    background-image: url("../Images/jewelles.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 0.8;
+}
